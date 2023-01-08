@@ -6,4 +6,4 @@ This project is meant to be a start-point for web applications with authenticati
 - Routing: react-router-dom 6.x
 - State management: Recoil 0.x
 - User interface: MUI 5.x
-- Back-end / DB: PocketBase / nosql
+- Back-end api's / Database: PocketBase
