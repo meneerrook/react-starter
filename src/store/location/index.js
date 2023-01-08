@@ -1,0 +1,1 @@
+export { locationAtom as default } from "./location";
